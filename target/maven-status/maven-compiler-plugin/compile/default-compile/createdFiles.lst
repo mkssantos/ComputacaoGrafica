@@ -1,0 +1,10 @@
+view\GameWindow.class
+view\GameBoard.class
+view\LoginScreen.class
+model\Game.class
+controller\NetworkManager.class
+model\Card.class
+model\Player.class
+com\mycompany\memorygameclient\MemoryGameClient.class
+controller\GameController.class
+view\GameBoard$CardButton.class
